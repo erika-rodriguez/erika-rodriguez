@@ -3,7 +3,7 @@
 
 
 
-<h3 align="center">Chemical Enginner student 
+<h3 align="center">Chemical Engineer student 
 and enthusiastic programmer.</h3>
 
 <h4 align="left">Connect with me:</h4>
