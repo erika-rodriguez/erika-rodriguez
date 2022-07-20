@@ -3,8 +3,7 @@
 
 
 
-<h3 align="center">  
-and enthusiastic programmer.</h3>
+<h3 align="center">  </h3>
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
